@@ -1,0 +1,10 @@
+{
+  "startFrom": "12:00",
+  "endAt": "18:15",
+  "minVotes": 80,
+  "maxVotes": 120,
+  "voteElementButtonSelector": "#up",
+  "voteElementCounter": "#_up",
+  "DATE_FORMAT": "HH:mm",
+  "voteLink": "https://grodno-kbp.by/hiryanova-varvara-slonimskoe-gup-zhkh-12-let.html"
+}
