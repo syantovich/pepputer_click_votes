@@ -7,6 +7,7 @@
 ## Предварительная установка
 
  - [Скачать и установить NodeJs](https://nodejs.org/dist/v20.10.0/node-v20.10.0.pkg)
+ - Запустить файл `installDeps.bat`
 
 
 ## Environment Variables
@@ -33,7 +34,7 @@
 
 ### Запуск
 
-Запустить файл `start.bat`
+ - Запустить файл `start.bat`
 
 
 
